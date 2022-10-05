@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>Oauth2_Client_Keycloak</artifactId>
+    <artifactId>oauth2_resource_server_keycloak</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Oauth2_Client_Keycloak</name>
-    <description>Oauth2_Client_Keycloak</description>
+    <name>Oauth2_Resource_Server_Keycloak</name>
+    <description>Oauth2_Resource_Server_Keycloak</description>
     <properties>
         <java.version>11</java.version>
     </properties>
@@ -29,11 +29,6 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.security</groupId>
-            <artifactId>spring-security-test</artifactId>
             <scope>test</scope>
         </dependency>
     </dependencies>

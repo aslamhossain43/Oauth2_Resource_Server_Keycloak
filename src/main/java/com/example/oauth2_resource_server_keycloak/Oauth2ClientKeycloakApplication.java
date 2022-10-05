@@ -1,4 +1,4 @@
-package com.example.oauth2_client_keycloak;
+package com.example.oauth2_resource_server_keycloak;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
