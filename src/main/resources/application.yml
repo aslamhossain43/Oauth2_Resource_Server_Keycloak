@@ -3,4 +3,4 @@ spring:
     oauth2:
       resourceserver:
         jwt:
-          issuer-uri: http://localhost:8888/auth/realms/baeldung
+          issuer-uri: http://localhost:8888/auth/realms/trakti
